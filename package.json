@@ -1,0 +1,11 @@
+{
+  "name": "api_ts",
+  "version": "1.0.0",
+  "description": "This project is for practicing on  create a Restful API with NodeJS, Express, Typescript & PostgreSQL",
+  "main": "source/server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
