@@ -20,3 +20,6 @@ tsc --init (getbash)
 
 $ npm i pg
 npm i --save-dev @types/pg
+
+///import every method
+/// ERRORS stop the project
