@@ -23,6 +23,5 @@ npm i --save-dev @types/pg
 <<<<<<< HEAD
 
 ///import every method
-/// ERRORS stop the project
 =======
 >>>>>>> bd222d8366811ce9fcb5d88999de688d26ceadec
