@@ -6,22 +6,8 @@ you have to install
 - Postgres
 - Postman
 
+### This api to store and retrieve  courses data
+### Each course has id, name, start date, end date
 
 
-git init
-npm init
 
-npm i -g typescript nodemon ts-node  express (optional -> ) prettier @types/express @types/node
-
-tsc --init (getbash)
-
-//uncomment outer dir & ./build and etc
-//uncomment outer dir & ./build and etc
-
-$ npm i pg
-npm i --save-dev @types/pg
-<<<<<<< HEAD
-
-///import every method
-=======
->>>>>>> bd222d8366811ce9fcb5d88999de688d26ceadec
