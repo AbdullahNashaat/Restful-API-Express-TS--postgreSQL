@@ -11,7 +11,7 @@ you have to install
 git init
 npm init
 
-npm i -g typescript nodemon ts-node  express (optional -> ) prettier @types/express @types/node
+npm i -g typescript nodemon ts-node  express (optional -> ) prettier @types/express @types/node body-parser
 
 tsc --init (getbash)
 
@@ -20,9 +20,8 @@ tsc --init (getbash)
 
 $ npm i pg
 npm i --save-dev @types/pg
-<<<<<<< HEAD
 
 ///import every method
 /// ERRORS stop the project
 =======
->>>>>>> bd222d8366811ce9fcb5d88999de688d26ceadec
+

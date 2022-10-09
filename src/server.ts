@@ -9,4 +9,4 @@ app.get('/',(req,res)=>{
     res.send('Hello11');
 });
 //postgres port 5432
-app.listen(5000,()=>console.log('running'));
+app.listen(8000,()=>console.log('running'));
